@@ -5,7 +5,10 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1", "Week1\Week1.csproj", "{8C78C519-ED4E-44B3-BFA3-B63D083A36D8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{83205239-D591-4040-9848-F1F503930CF9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{72D1726A-6300-400F-9D99-FCA6A99C5829}"
+	ProjectSection(SolutionItems) = preProject
+		..\Homework1\HW1.docx = ..\Homework1\HW1.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
