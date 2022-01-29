@@ -1,0 +1,11 @@
+{
+  "name": "girlspowerjs",
+  "version": "1.0.0",
+  "description": "node js tutorials",
+  "main": "girlsPower.js",
+  "scripts": {
+    "test": "node girlsPower.js"
+  },
+  "author": "Elif",
+  "license": "ISC"
+}
