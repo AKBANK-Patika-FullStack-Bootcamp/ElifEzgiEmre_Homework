@@ -1,0 +1,11 @@
+{
+  "name": "part2js",
+  "version": "1.0.0",
+  "description": "tutorial node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "elif",
+  "license": "ISC"
+}
